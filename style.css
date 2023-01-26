@@ -66,6 +66,10 @@ button {
   justify-content: center;
 }
 
+.icons {
+  width: 48px;
+}
+
 .days {
   display: flex;
   gap: 48px;
